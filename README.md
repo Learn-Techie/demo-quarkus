@@ -1,7 +1,9 @@
 Github clone and start the quarkus microservice
 
 git clone https://github.com/Learn-Techie/demo-quarkus.git
+
 cd demo-quarkus
+
 ./mvnw quarkus:dev
 
 Test the APIs
