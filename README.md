@@ -5,6 +5,7 @@ cd demo-quarkus
 ./mvnw quarkus:dev
 
 Test the APIs
+
 curl http://localhost:8080/api/v1/hello   
 curl http://localhost:8080/api/v1/employee
 
